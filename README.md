@@ -1,5 +1,7 @@
+<p align="center">
+  <img src="logo.svg" alt="Ved Games logo" width="320">
+</p>
 # VEDGAMES - Ved Games Production
-
 
 ![Ved Games logo](logo.jpg)
 
